@@ -9,9 +9,9 @@ This project template provides the backend for developing a React Native applica
 ## Key Features:
 
 - [**Sign in with Apple, GitHub, Google, or Email and Password**](https://supertokens.com/docs/thirdpartyemailpassword/introduction): The authentication flow supports multiple sign-in options using Supertokens.
-- [**Role Management**](https://supertokens.com/docs/thirdpartyemailpassword/introduction): You can manage user roles and permissions within your application using Supertokens.
-- [**Change Password, Verify E-Mail and Delete Account Views**](https://docs.expo.dev/guides/deep-linking/): Connect your app to a website by adding support for deep linking.
-- [**Handlebars E-Mail Templates**](https://docs.expo.dev/routing/introduction/): It utilizes Expo Router, a versatile routing solution for navigating between screens in your application.
+- [**Role Management**](https://supertokens.com/docs/userroles/introduction): You can manage user roles and permissions within your application using Supertokens.
+- **Change Password, Verify E-Mail and Delete Account Views**: Connect your app to a website by adding support for deep linking.
+- [**Handlebars E-Mail Templates**](https://handlebarsjs.com/): It utilizes Expo Router, a versatile routing solution for navigating between screens in your application.
 
 ## Getting Started
 
